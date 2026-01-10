@@ -1,0 +1,3 @@
+number=[50,60,70,75,52,30,80,90,55,45]
+print("max number is :",max(number))
+print("minimum number is:",min(number))
