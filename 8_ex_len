@@ -1,0 +1,2 @@
+num=("mori",5,"krishraj",True,67,65)
+print("lenght of string",len(num))
