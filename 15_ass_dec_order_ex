@@ -1,0 +1,6 @@
+num=(1,2,3,45,85,63,80,12,32,16)
+ass=sorted(num)
+print(ass)
+ass2=(
+    sorted(num,reverse=True))
+print(ass2)
