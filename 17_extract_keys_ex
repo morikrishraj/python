@@ -1,0 +1,3 @@
+stud={'a':50,'b':45,'c':60,'d':45,'e':75}
+name=stud.keys()
+print(name)
