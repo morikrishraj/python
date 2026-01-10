@@ -1,0 +1,4 @@
+stud={'a':50,'b':45,'c':60,'d':45,'e':75}
+grade={'aa':'A+','bb':'b+','cc':'c+','dd':'d','ee':'d+'}
+student=(stud|grade)
+print(student)
