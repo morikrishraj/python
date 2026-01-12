@@ -1,0 +1,5 @@
+t=(1, 2, 3, 4, 5)
+num=list(t)
+print(num)
+num.insert(6,6)
+print(num)
