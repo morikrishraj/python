@@ -1,0 +1,3 @@
+gm=int(input("Enter gram:"))
+kg=gm/1000
+print(kg)
