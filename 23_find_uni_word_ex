@@ -1,3 +1,3 @@
-words = ["a", "c", "c", "c"]
+words = ["a", "b", "c", "c"]
 words=set(words)
 print(words)
