@@ -1,0 +1,8 @@
+marks = {
+    "math": 85,
+    "science": 90,
+    "english": 88}
+marks=sum(marks.values())
+print(marks)
+avg=marks/3
+print(avg)
