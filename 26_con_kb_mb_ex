@@ -1,0 +1,3 @@
+kb=int(input("Enter kb:"))
+mb=kb/1024
+print(mb)
